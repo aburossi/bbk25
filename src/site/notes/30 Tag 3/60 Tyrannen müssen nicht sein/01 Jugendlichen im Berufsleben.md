@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/60-tyrannen-muessen-nicht-sein/01-jugendlichen-im-berufsleben/"}
+{"dg-publish":true,"permalink":"/30-tag-3/60-tyrannen-muessen-nicht-sein/01-jugendlichen-im-berufsleben/","noteIcon":""}
 ---
 
 ## Beziehungsstörungen und ihre Auswirkungen auf die Ausbildung
@@ -8,7 +8,7 @@
 > 
 > Ein neuer Lernender beginnt seine Ausbildung in Ihrem Betrieb. Sie bemerken, dass er häufig **unangemessen auf Autorität reagiert**, sich schwer tut, **Grenzen zu akzeptieren**, und versucht, **Regeln zu umgehen**. Diese Verhaltensweisen könnten auf **familiäre Beziehungsdynamiken** zurückzuführen sein. Sie fragen sich, wie Sie damit umgehen können und wie sich diese Dynamiken auf die **Ausbildung** auswirken.
 >
->|**Beziehungsstörungen** innerhalb der Familie können das Verhalten von Jugendlichen im Ausbildungsalltag massgeblich beeinflussen.<br><br><br>Ein Verständnis dieser Dynamiken ist entscheidend, um angemessen reagieren zu können und die **berufliche und persönliche Entwicklung** des Lernenden zu fördern.<br><br><br>In diesem Modul beschäftigen wir uns mit den Beziehungsstörungen **Partnerschaftlichkeit**, **Projektion** und **Symbiose**, ihren Ursachen und Auswirkungen. | ![[Pasted image 20250129113711.png\|Pasted image 20250129113711.png]] |
+>|**Beziehungsstörungen** innerhalb der Familie können das Verhalten von Jugendlichen im Ausbildungsalltag massgeblich beeinflussen.<br><br><br>Ein Verständnis dieser Dynamiken ist entscheidend, um angemessen reagieren zu können und die **berufliche und persönliche Entwicklung** des Lernenden zu fördern.<br><br><br>In diesem Modul beschäftigen wir uns mit den Beziehungsstörungen **Partnerschaftlichkeit**, **Projektion** und **Symbiose**, ihren Ursachen und Auswirkungen. | ![Pasted image 20250129113711.png](/img/user/Pasted%20image%2020250129113711.png) |
 >| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
 
 > [!success] **Lernziele**

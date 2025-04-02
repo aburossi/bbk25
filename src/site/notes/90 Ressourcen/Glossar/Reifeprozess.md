@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/reifeprozess/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/reifeprozess/","noteIcon":""}
 ---
 
 # 🔍Was ist es?

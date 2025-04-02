@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/03-fallbeispiele/"}
+{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/03-fallbeispiele/","noteIcon":""}
 ---
 
 ### Auftrag - Lösungsansätze zu Fallbeispiele entwickeln

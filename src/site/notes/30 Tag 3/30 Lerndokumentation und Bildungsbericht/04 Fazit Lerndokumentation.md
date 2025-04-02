@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/04-fazit-lerndokumentation/"}
+{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/04-fazit-lerndokumentation/","noteIcon":""}
 ---
 
 

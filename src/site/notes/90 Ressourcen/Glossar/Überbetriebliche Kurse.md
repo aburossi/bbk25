@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/ueberbetriebliche-kurse/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/ueberbetriebliche-kurse/","noteIcon":""}
 ---
 
 # 🔍Was ist es?

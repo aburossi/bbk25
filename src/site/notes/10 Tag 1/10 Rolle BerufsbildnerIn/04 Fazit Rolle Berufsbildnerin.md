@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/04-fazit-rolle-berufsbildnerin/"}
+{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/04-fazit-rolle-berufsbildnerin/","noteIcon":""}
 ---
 
 >[!abstract] Fazit

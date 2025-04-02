@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/adoleszenz/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/adoleszenz/","noteIcon":""}
 ---
 
 # 🔍Was ist es?

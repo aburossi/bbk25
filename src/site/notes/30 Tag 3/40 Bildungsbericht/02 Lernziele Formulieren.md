@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/02-lernziele-formulieren/"}
+{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/02-lernziele-formulieren/","noteIcon":""}
 ---
 
 ## Zielformulierung: Struktur und Klarheit
@@ -8,9 +8,9 @@
 >Die Formulierung klarer und umsetzbarer Ziele ist entscheidend für den Erfolg von Lernenden und die effiziente Zusammenarbeit. In dieser Einheit lernen wir drei Methoden kennen, um Ziele präzise und motivierend zu formulieren:
 >
 >* **SMART-Methode:** Ziele werden spezifisch, messbar, erreichbar, relevant und zeitgebunden formuliert. Dies sorgt für klare Kriterien und eine einfache Überprüfung des Fortschritts.
->![[Pasted image 20241204160818.png\|Pasted image 20241204160818.png]]
+>![Pasted image 20241204160818.png](/img/user/Pasted%20image%2020241204160818.png)
 >* **W-Fragen:** Durch gezielte Fragen wie „Was soll erreicht werden?“, „Wie wird der Erfolg gemessen?“ und „Bis wann soll das Ziel erreicht sein?“ können realistische und sinnvolle Ziele entwickelt werden.
->  ![[Pasted image 20241204160831.png\|Pasted image 20241204160831.png]]
+>  ![Pasted image 20241204160831.png](/img/user/Pasted%20image%2020241204160831.png)
 >* **3-dimensionale Zielformulierung:** Diese Methode fokussiert auf **Zielinhalt**, **Zielausmass** und **Zielzeit**, um sicherzustellen, dass das Ziel klar, erreichbar und zeitlich eingeordnet ist.
 >
 >Die Wahl der passenden Methode hängt vom Kontext und den Anforderungen des jeweiligen Ziels ab.

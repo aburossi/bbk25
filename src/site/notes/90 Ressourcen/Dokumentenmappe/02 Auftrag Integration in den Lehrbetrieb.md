@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/02-auftrag-integration-in-den-lehrbetrieb/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/02-auftrag-integration-in-den-lehrbetrieb/","noteIcon":""}
 ---
 
 

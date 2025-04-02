@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/02-der-interventionsleitfaden-als-methode/"}
+{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/02-der-interventionsleitfaden-als-methode/","noteIcon":""}
 ---
 
 ## Der Interventionsleitfaden als Methode

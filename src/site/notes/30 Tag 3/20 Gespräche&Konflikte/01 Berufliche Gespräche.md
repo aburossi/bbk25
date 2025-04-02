@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/01-berufliche-gespraeche/"}
+{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/01-berufliche-gespraeche/","noteIcon":""}
 ---
 
 > [!abstract] **Einführung**

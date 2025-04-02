@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/extrinsische-motivation/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/extrinsische-motivation/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/04-bildungsberichte-verbessern/"}
+{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/04-bildungsberichte-verbessern/","noteIcon":""}
 ---
 
 ## Vertiefung: Bildungsberichte analysieren und bewerten

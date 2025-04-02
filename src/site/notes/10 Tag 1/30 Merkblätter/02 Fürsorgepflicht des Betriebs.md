@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/02-fuersorgepflicht-des-betriebs/"}
+{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/02-fuersorgepflicht-des-betriebs/","noteIcon":""}
 ---
 
 ## Das Wichtigste in Kürze

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/02-herausforderungen-und-chancen/"}
+{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/02-herausforderungen-und-chancen/","noteIcon":""}
 ---
 
 

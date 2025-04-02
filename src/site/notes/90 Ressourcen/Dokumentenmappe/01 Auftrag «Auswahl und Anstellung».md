@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/01-auftrag-auswahl-und-anstellung/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/01-auftrag-auswahl-und-anstellung/","noteIcon":""}
 ---
 
 

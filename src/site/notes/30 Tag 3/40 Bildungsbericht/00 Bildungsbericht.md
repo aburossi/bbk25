@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/00-bildungsbericht/"}
+{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/00-bildungsbericht/","noteIcon":""}
 ---
 
 ### Übersicht Bildungsbericht

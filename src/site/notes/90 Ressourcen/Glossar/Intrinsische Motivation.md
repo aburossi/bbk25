@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/intrinsische-motivation/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/intrinsische-motivation/","noteIcon":""}
 ---
 
 # 🔍Was ist es?

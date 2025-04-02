@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/03-best-practices-lerndokumentation/"}
+{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/03-best-practices-lerndokumentation/","noteIcon":""}
 ---
 
 >[!abstract] Auftrag

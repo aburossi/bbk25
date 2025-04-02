@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/01-gleiche-chancen-und-korrekter-umgang/"}
+{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/01-gleiche-chancen-und-korrekter-umgang/","noteIcon":""}
 ---
 
 ## Merkblattreihe «Gleiche Chancen und korrekter Umgang»

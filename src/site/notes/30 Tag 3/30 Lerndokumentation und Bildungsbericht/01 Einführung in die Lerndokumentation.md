@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/01-einfuehrung-in-die-lerndokumentation/"}
+{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/01-einfuehrung-in-die-lerndokumentation/","noteIcon":""}
 ---
 
 >[!abstract] **Die Lerndokumentation**

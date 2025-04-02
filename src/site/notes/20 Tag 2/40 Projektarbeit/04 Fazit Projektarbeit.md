@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/04-fazit-projektarbeit/"}
+{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/04-fazit-projektarbeit/","noteIcon":""}
 ---
 
 >[!abstract] Fazit

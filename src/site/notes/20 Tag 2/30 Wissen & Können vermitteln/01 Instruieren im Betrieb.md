@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/30-wissen-and-koennen-vermitteln/01-instruieren-im-betrieb/"}
+{"dg-publish":true,"permalink":"/20-tag-2/30-wissen-and-koennen-vermitteln/01-instruieren-im-betrieb/","noteIcon":""}
 ---
 
 ## Methodische Hinweise für die betriebliche Bildung und Planung der Ausbildungsschritte

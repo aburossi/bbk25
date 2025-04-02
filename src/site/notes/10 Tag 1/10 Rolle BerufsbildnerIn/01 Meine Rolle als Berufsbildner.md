@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/01-meine-rolle-als-berufsbildner/"}
+{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/01-meine-rolle-als-berufsbildner/","noteIcon":""}
 ---
 
 ## Berufsbildner/innen - Vorbilder und Coaches für den Lernerfolg

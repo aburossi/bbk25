@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/motivation/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/motivation/","noteIcon":""}
 ---
 
 # 🔍Was ist Motivation?

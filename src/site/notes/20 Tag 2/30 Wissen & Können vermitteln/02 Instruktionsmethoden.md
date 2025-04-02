@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/30-wissen-and-koennen-vermitteln/02-instruktionsmethoden/"}
+{"dg-publish":true,"permalink":"/20-tag-2/30-wissen-and-koennen-vermitteln/02-instruktionsmethoden/","noteIcon":""}
 ---
 
 > [!note] **Überfliegen** Sie die **Seiten 239-241** im Handbuch. Machen Sie sich mit den **Instruktionsmethoden** und der **6-Schritte-Methode** vertraut.

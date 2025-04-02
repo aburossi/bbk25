@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/entwicklungspsychologie/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/entwicklungspsychologie/","noteIcon":""}
 ---
 
 # 🔍Was ist es?

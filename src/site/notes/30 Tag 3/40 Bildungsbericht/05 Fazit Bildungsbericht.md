@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/05-fazit-bildungsbericht/"}
+{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/05-fazit-bildungsbericht/","noteIcon":""}
 ---
 
 

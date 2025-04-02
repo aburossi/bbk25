@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/02-die-projektarbeit/"}
+{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/02-die-projektarbeit/","noteIcon":""}
 ---
 
 >[!note] Überfliegen Sie die **Seiten 246-250 im Handbuch**. Merken Sie sich die **Definition von Projektarbeit** und die **6-Schritte-Methode**.

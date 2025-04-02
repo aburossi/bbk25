@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/berufsbildner-in/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/berufsbildner-in/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/handlungskompetenzen/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/handlungskompetenzen/","noteIcon":""}
 ---
 
 # 🔍Was ist es?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/02-das-vier-ohren-modell/"}
+{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/02-das-vier-ohren-modell/","noteIcon":""}
 ---
 
 ## Das Vier-Ohren-Modell im Detail
@@ -7,7 +7,7 @@
 > [!abstract] Kommunikation und Feedback
 > **Feedback** ist eine persönliche Rückmeldung über **die Auswirkungen von Gesprächen, Diskussionen oder gemeinsamen Erlebnissen**. Es ist **keine Beurteilung von Personen**, sondern eine **Beschreibung der eigenen Eindrücke und Empfindungen**. Ein erfolgreiches Feedback erfordert, dass die Regeln bekannt sind und der Feedbackgeber sich der Subjektivität seiner Wahrnehmung bewusst ist.
 >>[!info]- Sender-Empfänger-Modell
->>![[Pasted image 20241204191742.png\|Pasted image 20241204191742.png]]
+>>![Pasted image 20241204191742.png](/img/user/Pasted%20image%2020241204191742.png)
 >
 >>[!quote] Paul Watzlawick zur Kommunikation
 >>
@@ -21,7 +21,7 @@
 ### Grundlagen des Vier-Ohren-Modells
 
 Das **Vier-Ohren-Modell** von Schulz von Thun beschreibt, dass jede Nachricht vier Seiten hat:
-![[Pasted image 20241204191623.png\|Pasted image 20241204191623.png]]
+![Pasted image 20241204191623.png](/img/user/Pasted%20image%2020241204191623.png)
 
 1. **Sachinhalt**: Worüber ich informiere.
 2. **Selbstoffenbarung**: Was ich von mir selbst kundgebe.

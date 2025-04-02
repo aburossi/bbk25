@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/03-podcast-reihe/"}
+{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/03-podcast-reihe/","noteIcon":""}
 ---
 
 ### Auftrag - Podcast-Reihe „Gleiche Chancen und korrekter Umgang“ 

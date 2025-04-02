@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-krankheit-und-unfall/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-krankheit-und-unfall/","noteIcon":""}
 ---
 
 ## Krankheit und Unfall

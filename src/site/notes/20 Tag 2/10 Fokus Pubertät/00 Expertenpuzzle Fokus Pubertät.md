@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/10-fokus-pubertaet/00-expertenpuzzle-fokus-pubertaet/"}
+{"dg-publish":true,"permalink":"/20-tag-2/10-fokus-pubertaet/00-expertenpuzzle-fokus-pubertaet/","noteIcon":""}
 ---
 
 ## Fokus Pubertät

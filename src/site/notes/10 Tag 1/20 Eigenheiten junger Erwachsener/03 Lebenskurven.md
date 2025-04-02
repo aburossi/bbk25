@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/03-lebenskurven/"}
+{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/03-lebenskurven/","noteIcon":""}
 ---
 
 ### Auftrag - Lebenskurven

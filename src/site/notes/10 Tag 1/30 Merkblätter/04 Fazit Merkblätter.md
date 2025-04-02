@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/04-fazit-merkblaetter/"}
+{"dg-publish":true,"permalink":"/10-tag-1/30-merkblaetter/04-fazit-merkblaetter/","noteIcon":""}
 ---
 
 >[!abstract] Fazit

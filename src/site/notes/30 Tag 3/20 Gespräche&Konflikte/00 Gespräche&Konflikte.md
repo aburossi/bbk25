@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/00-gespraeche-and-konflikte/"}
+{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/00-gespraeche-and-konflikte/","noteIcon":""}
 ---
 
 ### Übersicht Vier-Ohren-Modell

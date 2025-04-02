@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/03-auftrag-planung-betriebliche-grundbildung/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/03-auftrag-planung-betriebliche-grundbildung/","noteIcon":""}
 ---
 
 

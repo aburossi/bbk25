@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-persoenlichkeits-und-datensschutz/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-persoenlichkeits-und-datensschutz/","noteIcon":""}
 ---
 
 ## Persönlichkeitsschutz und Datenschutz in der Berufsbildung
