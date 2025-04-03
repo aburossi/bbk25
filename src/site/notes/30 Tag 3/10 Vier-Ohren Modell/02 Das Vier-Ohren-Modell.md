@@ -32,13 +32,20 @@ Das ==Vier-Ohren-Modell== von Schulz von Thun beschreibt, dass jede Nachricht vi
 ==Reflexion:==
 > Analysieren Sie diese Situationen mithilfe des Vier-Ohren-Modells. ==Welche Botschaften== könnten auf den verschiedenen Ebenen ==gesendet== und ==empfangen== worden sein?
 
->[!example]- ==Beispiel 1== 
+>[!example]- Beispiel 1 
 >Eine Mutter betritt das unordentliche Zimmer ihrer 15-jährigen Tochter, schüttelt den Kopf und verlässt kommentarlos das Zimmer.
+>![mutter tochter.png](/img/user/mutter%20tochter.png)
+><audio controls><source src="https://download-media.srf.ch/world/audio/WortSchatz_radio/2015/10/WortSchatz-radio_a88ae59d20e546b2af48981d782e0f0a.mp3"></audio>
+>Quelle: [Quelle](https://www.srf.ch/audio/wortschatz/untermiete-von-carol-blanc?id=dd6ca264-cc45-4159-a05c-c8ad617d68f3#autoplay)
 
->[!example]- ==Beispiel 2== 
+>[!example]- Beispiel 2
 >Nachdem ein Sohn seine Mutter darum gebeten hat, ihm sein Lieblingsessen zu kochen, fragt er sie beim Essen: „Hast du das Rezept verändert?"
+>![mutter sohn.png](/img/user/mutter%20sohn.png)
 
->[!example]- ==Beispiel 3==
+>[!example]- Beispiel 3
 >Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."
+>![mann frau.png](/img/user/mann%20frau.png)
+
+
 ## Weiter
 [[30 Tag 3/10 Vier-Ohren Modell/03 Anwendung Vier-Ohren-Modell\|03 Anwendung Vier-Ohren-Modell]]
