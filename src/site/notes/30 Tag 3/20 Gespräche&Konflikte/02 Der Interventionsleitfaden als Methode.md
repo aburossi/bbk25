@@ -8,13 +8,13 @@
 > 
 > Der **[[30 Tag 3/20 Gespräche&Konflikte/Interventionsleitfaden\|Interventionsleitfaden]]** bietet eine strukturierte Vorgehensweise für Gespräche mit Lernenden, insbesondere in herausfordernden Situationen. Er hilft dabei, Gespräche zielgerichtet zu planen und durchzuführen, um gemeinsam Lösungen zu erarbeiten.
 
->[!tip]- Tipps für die Gesprächsvorbereitung
+>[!tip]- Gesprächsvorbereitung
 > * **Information sammeln:** Verschaffen Sie sich einen Überblick über die Situation. Informieren Sie sich bei Bedarf bei Kollegen oder Lehrpersonen.
 > * **Setting beachten:** Wählen Sie einen passenden Ort und Zeitpunkt für das Gespräch. Sorgen Sie für eine ungestörte Atmosphäre.
 > * **Dokumentation:** Halten Sie wichtige Punkte schriftlich fest. Bei Bedarf können Zielvereinbarungen gemeinsam unterschrieben werden.
 > * **Nachgespräch planen:** Vereinbaren Sie einen Folgetermin, um den Fortschritt zu besprechen.
  
->[!tip]- Tipps für die Gesprächsführung
+>[!tip]- Gesprächsführung
 > * **Konstruktives Feedback geben:** Nutzen Sie "Ich-Botschaften", um Ihre Beobachtungen und Empfindungen mitzuteilen.
 > * **Aktualität wahren:** Sprechen Sie Themen zeitnah an, damit sie noch präsent und leichter nachvollziehbar sind.
 > * **Respektvolle Haltung einnehmen:** Seien Sie sich bewusst, dass Ihre Sichtweise subjektiv ist. Vermeiden Sie vorschnelle Urteile.

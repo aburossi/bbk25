@@ -40,11 +40,11 @@ Das ==Vier-Ohren-Modell== von Schulz von Thun beschreibt, dass jede Nachricht vi
 
 >[!example]- Beispiel 2
 >Nachdem ein Sohn seine Mutter darum gebeten hat, ihm sein Lieblingsessen zu kochen, fragt er sie beim Essen: „Hast du das Rezept verändert?"
->![mutter sohn.png](/img/user/mutter%20sohn.png)
+>![mutter sohn.png|300](/img/user/mutter%20sohn.png)
 
 >[!example]- Beispiel 3
 >Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."
->![mann frau.png](/img/user/mann%20frau.png)
+>![mann frau.png|300](/img/user/mann%20frau.png)
 
 
 ## Weiter
