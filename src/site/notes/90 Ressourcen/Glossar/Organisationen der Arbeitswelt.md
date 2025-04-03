@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/organisationen-der-arbeitswelt/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/organisationen-der-arbeitswelt/"}
 ---
 
 # 🔍Was ist es?

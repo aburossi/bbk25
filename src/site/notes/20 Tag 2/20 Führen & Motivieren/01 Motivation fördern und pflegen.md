@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/01-motivation-foerdern-und-pflegen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/01-motivation-foerdern-und-pflegen/"}
 ---
 
 

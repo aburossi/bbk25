@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/03-best-practices-lerndokumentation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/03-best-practices-lerndokumentation/"}
 ---
 
 >[!abstract] Auftrag
@@ -21,7 +21,7 @@
 1. **Überfliegen der Checkliste auf Seite 145 im Handbuch:**
     - Besprechen Sie in der Gruppe, wie Sie die Punkte der Checkliste mit Ihren Lernenden in **Beruf** umsetzen. **Wie haben Sie es während der Lehre gemacht? Wie wird es jetzt im Betrieb gehandhabt?**
 2. **Visualisierung der Best Practices (ca. 10 Minuten):**
-    - Schreiben Sie **die wichtigsten Tipps**, die für Lernende in Ihrem Beruf besonders relevant und nützlich sind, auf neue Karten auf dem Pin-Board](https://app.fobizz.com/pinboard/public_boards/85bbed0f-3f84-422e-9651-92ccfa3c468f?token=1b05367d312b978181ec3e8b87d22b95).
+    - Schreiben Sie **die wichtigsten Tipps**, die für Lernende in Ihrem Beruf besonders relevant und nützlich sind, auf neue Karten auf dem [Pin-Board](https://app.fobizz.com/pinboard/public_boards/85bbed0f-3f84-422e-9651-92ccfa3c468f?token=1b05367d312b978181ec3e8b87d22b95).
 3. **Ergebnis: Sammlung von berufsspezifischen Checkpunkten:**
 	   - Auf dem Pin-Board entsteht eine **Sammlung von Checkpunkten**, die an die unterschiedlichen beruflichen Kontexte der Teilnehmenden angepasst sind. Diese Sammlung dient Ihnen und den anderen als **Inspiration für die Erstellung einer eigenen Checkliste**, die an die Bedürfnisse der Lernenden in Ihrem jeweiligen Beruf angepasst ist.
 

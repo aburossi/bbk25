@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/kognitive-entwicklung/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/kognitive-entwicklung/"}
 ---
 
 # 🔍Was ist es?

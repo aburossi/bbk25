@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/01-die-eigenheiten-der-jugendlichen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/01-die-eigenheiten-der-jugendlichen/"}
 ---
 
 ## Eigenheiten der 15- bis 20-Jährigen Lernenden

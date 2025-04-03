@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/00-fuehren-and-motivieren/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/00-fuehren-and-motivieren/"}
 ---
 
 ### Übersicht Führen & Motivieren

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/04-auftrag-fokus-pubertaet/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/04-auftrag-fokus-pubertaet/"}
 ---
 
 # Auftrag «Fokus Pubertät»

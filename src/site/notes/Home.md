@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
 # Kurs für BerufsbildnerInnen

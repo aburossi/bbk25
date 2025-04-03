@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/00-rolle-berufsbildnerin/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/00-rolle-berufsbildnerin/"}
 ---
 
 ### Übersicht Rolle BerufsbildnerIn

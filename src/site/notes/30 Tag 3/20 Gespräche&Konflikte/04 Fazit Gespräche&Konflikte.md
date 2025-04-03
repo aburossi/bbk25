@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/04-fazit-gespraeche-and-konflikte/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/20-gespraeche-and-konflikte/04-fazit-gespraeche-and-konflikte/"}
 ---
 
 

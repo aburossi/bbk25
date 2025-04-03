@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/01-von-der-aufgabe-zum-projekt/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/01-von-der-aufgabe-zum-projekt/"}
 ---
 
 ## Projektarbeit

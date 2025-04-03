@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/00-eigenheiten-junger-erwachsener/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/00-eigenheiten-junger-erwachsener/"}
 ---
 
 ### Übersicht Eigenheiten junger Erwachsener

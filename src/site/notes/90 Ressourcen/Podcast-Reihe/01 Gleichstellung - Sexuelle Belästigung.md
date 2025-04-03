@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-gleichstellung-sexuelle-belaestigung/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-gleichstellung-sexuelle-belaestigung/"}
 ---
 
 ## Gleichstellung und sexuelle Belästigung

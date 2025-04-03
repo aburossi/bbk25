@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/glossar/bildungsverordnung/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/bildungsverordnung/"}
 ---
 
 # 🔍Was ist es?

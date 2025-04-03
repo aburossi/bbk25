@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/03-bildungsberichte/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/03-bildungsberichte/"}
 ---
 
 ## Einführung in den Bildungsbericht

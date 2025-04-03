@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/05-iperka-beispiel/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/05-iperka-beispiel/"}
 ---
 
 ## Geschenkbox

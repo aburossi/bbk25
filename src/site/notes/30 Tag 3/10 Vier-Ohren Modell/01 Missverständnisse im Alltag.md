@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/01-missverstaendnisse-im-alltag/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/01-missverstaendnisse-im-alltag/"}
 ---
 
 ## Das Vier-Ohren-Modell

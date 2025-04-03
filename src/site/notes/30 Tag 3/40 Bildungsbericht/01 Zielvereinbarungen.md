@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/01-zielvereinbarungen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/01-zielvereinbarungen/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/02-das-vier-ohren-modell/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/02-das-vier-ohren-modell/"}
 ---
 
 ## Das Vier-Ohren-Modell im Detail

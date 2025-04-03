@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/02-die-lerndokumentation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/30-lerndokumentation-und-bildungsbericht/02-die-lerndokumentation/"}
 ---
 
 ## Das Wichtigste in Kürze

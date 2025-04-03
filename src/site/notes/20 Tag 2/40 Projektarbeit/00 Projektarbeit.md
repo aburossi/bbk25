@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/00-projektarbeit/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/00-projektarbeit/"}
 ---
 
 ### Übersicht Projektarbeit

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/evaluation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/evaluation/"}
 ---
 
 

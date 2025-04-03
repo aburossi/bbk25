@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/03-rollenspiel/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/03-rollenspiel/"}
 ---
 
 ### Auftrag Rollenspiel "Herausfordernde Situationen im Berufsalltag"

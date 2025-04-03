@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/00-rahmenbedingungen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/00-rahmenbedingungen/"}
 ---
 
 ## Rahmenbedingungen

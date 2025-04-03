@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/03-anwendung-vier-ohren-modell/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/10-vier-ohren-modell/03-anwendung-vier-ohren-modell/"}
 ---
 
 ## Auftrag: Analyse und Verbesserung von Feedbackgesprächen mit dem Vier-Ohren-Modell

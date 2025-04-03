@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/60-tyrannen-muessen-nicht-sein/01-jugendlichen-im-berufsleben/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/60-tyrannen-muessen-nicht-sein/01-jugendlichen-im-berufsleben/"}
 ---
 
 ## Beziehungsstörungen und ihre Auswirkungen auf die Ausbildung

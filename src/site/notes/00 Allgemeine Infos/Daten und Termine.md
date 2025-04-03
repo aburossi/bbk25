@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-allgemeine-infos/daten-und-termine/","noteIcon":""}
+{"dg-publish":true,"permalink":"/00-allgemeine-infos/daten-und-termine/"}
 ---
 
 ## Stundentafel

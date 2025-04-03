@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/30-wissen-and-koennen-vermitteln/00-wissen-and-koennen-vermitteln/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/30-wissen-and-koennen-vermitteln/00-wissen-and-koennen-vermitteln/"}
 ---
 
 ### Übersicht Wissen & Können vermitteln

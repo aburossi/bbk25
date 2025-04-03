@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/04-fazit-fuehren-und-motivieren/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/04-fazit-fuehren-und-motivieren/"}
 ---
 
 >[!abstract] Fazit

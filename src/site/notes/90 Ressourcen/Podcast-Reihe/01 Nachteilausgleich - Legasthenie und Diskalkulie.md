@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-nachteilausgleich-legasthenie-und-diskalkulie/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/podcast-reihe/01-nachteilausgleich-legasthenie-und-diskalkulie/"}
 ---
 
 ## Nachteilausgleich - Legasthenie & Diskalkulie

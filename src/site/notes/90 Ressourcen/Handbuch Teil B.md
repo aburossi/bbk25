@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/handbuch-teil-b/","noteIcon":""}
+{"dg-publish":true,"permalink":"/90-ressourcen/handbuch-teil-b/"}
 ---
 
 ## Handbuch betriebliche Grundbildung - Teil B

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/04-fazit-eigenheiten-junger-erwachsenen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/04-fazit-eigenheiten-junger-erwachsenen/"}
 ---
 
 >[!abstract] Fazit

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/03-iperka-in-der-praxis/","noteIcon":""}
+{"dg-publish":true,"permalink":"/20-tag-2/40-projektarbeit/03-iperka-in-der-praxis/"}
 ---
 
 

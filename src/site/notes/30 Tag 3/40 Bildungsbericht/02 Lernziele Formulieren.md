@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/02-lernziele-formulieren/","noteIcon":""}
+{"dg-publish":true,"permalink":"/30-tag-3/40-bildungsbericht/02-lernziele-formulieren/"}
 ---
 
 ## Zielformulierung: Struktur und Klarheit
