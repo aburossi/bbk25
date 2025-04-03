@@ -30,9 +30,6 @@
 >- **Konkret bleiben:** Nennen Sie spezifische Beobachtungen statt allgemeiner Aussagen.
 >- **Respektvoller Ton:** Bleiben Sie wertschätzend und vermeiden Sie Schuldzuweisungen.
 
-4. **Ergebnisse besprechen (10 Minuten):**
-	- Stellen Sie Ihre Gesprächsbauchsteine den anderen Gruppen vor und besprechen Sie deren Wirksamkeit.
-
 >[!question] **Reflexionsfragen**
 > 
 > * Wie fühlt sich der Lernende wohl in dieser Gesprächssituation?
@@ -46,7 +43,7 @@
 >Tom ist ein Auszubildender im ersten Jahr seiner Ausbildung. Ihnen als Berufsbildner ist aufgefallen, dass Tom in letzter Zeit mehrere problematische Situationen verursacht hat. Er hat häufig Schwierigkeiten, seine Aufgaben fristgerecht zu erledigen, und benötigt mehr Unterstützung als zuvor. Zudem hat er kürzlich einen wichtigen Kundenauftrag verloren, weil er unangemessen mit dem Kunden kommuniziert hat. Ihnen ist auch aufgefallen, dass Tom seine Pausen immer wieder verlängert und manchmal verschwindet, ohne seinen Kollegen Bescheid zu geben. 
 >Sie möchten ein Interventionsgespräch mit Tom führen, um die verschiedenen Probleme zu besprechen und herauszufinden, wie Sie ihm helfen können, seine Situation zu verbessern und erfolgreicher in seiner Ausbildung zu sein.
 >
-><iframe src="https://app.fobizz.com/pinboard/public_boards/ace64d40-88bf-40ae-9489-7b9c6d318f66?token=ce061c6afcc271e8a0265b2dda26052e" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
+><iframe src="https://app.fobizz.com/pinboard/public_boards/7d794c95-9a98-4f94-8a6b-4f1dabf11c3f?token=784d775a1748a94d9a494b2b4c59f0a8" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
 
 >[!note]- Gruppe Blau
 >### Fallbeispiel
