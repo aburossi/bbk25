@@ -54,3 +54,5 @@
 >
 >3. **Zielvereinbarungen:**  
 >   Wie können Zielvereinbarungen aus einem Beurteilungsgespräch den Lernerfolg fördern? Wie stellen Sie sicher, dass die Ziele realistisch und überprüfbar sind?
+
+## Weiter zu [[30 Tag 3/40 Bildungsbericht/04 Bildungsberichte verbessern\|04 Bildungsberichte verbessern]]

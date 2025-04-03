@@ -49,3 +49,4 @@
 >4. Wie haben Sie die SMART-Kriterien auf die formulierten Ziele angewandt?  
 >5. Was nehmen Sie aus dieser Übung für Ihre zukünftige Arbeit mit Bildungsberichten mit?  
 
+## Weiter zu [[30 Tag 3/40 Bildungsbericht/05 Fazit Bildungsbericht\|05 Fazit Bildungsbericht]]
