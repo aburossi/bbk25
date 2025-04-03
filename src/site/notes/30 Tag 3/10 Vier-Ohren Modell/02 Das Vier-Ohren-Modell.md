@@ -28,9 +28,39 @@ Das ==Vier-Ohren-Modell== von Schulz von Thun beschreibt, dass jede Nachricht vi
 3. ==Beziehung==: Was ich von dir halte und wie wir zueinander stehen.
 4. ==Appell==: Was ich bei dir erreichen möchte.
 
-### Alltagssituationen
+### Integration beider Modelle
+
+**Titel:** _Kommunikation verstehen: Vom technischen Ablauf zur inhaltlichen Tiefe_
+
+|Sender-Empfänger-Modell|Vier-Ohren-Modell|
+|---|---|
+|Wer spricht mit wem? Wie?|Was steckt _wirklich_ in der Nachricht?|
+|Fokus auf Codierung/Decodierung|Fokus auf Interpretation|
+|Missverständnisse = Übertragungsfehler|Missverständnisse = Unterschiedliche Ebenen|
+|Technisch orientiert|Psychologisch orientiert|
+
+### Auftrag Alltagssituationen
+
 ==Reflexion:==
-> Analysieren Sie diese Situationen mithilfe des Vier-Ohren-Modells. ==Welche Botschaften== könnten auf den verschiedenen Ebenen ==gesendet== und ==empfangen== worden sein?
+> Analysieren Sie die folgenden Alltagssituationen mithilfe von zwei Kommunikationsmodellen:
+> 
+> – dem **Sender–Empfänger-Modell**  
+> – dem **Vier-Ohren-Modell** von Schulz von Thun  
+> 
+> Überlegen Sie bei jedem Beispiel:
+> 
+> 1. Was wird gesendet – und was empfangen?
+> 2. Welche Botschaften könnten auf den verschiedenen Ebenen mitgeschwungen haben?
+> 3. Welche Missverständnisse könnten entstehen?
+> 4. Welches Modell erklärt welche Aspekte der Kommunikation besonders gut?
+
+==Auftrag:==
+- Überlegen Sie sich zu jeder Situation:
+> - die vier Seiten der Nachricht (Sachinhalt, Selbstoffenbarung, Beziehung, Appell)
+> - den Ablauf der Kommunikation nach dem Sender–Empfänger-Modell
+> - mögliche Ursachen für Missverständnisse.
+
+---
 
 >[!example]- Beispiel 1 
 >Eine Mutter betritt das unordentliche Zimmer ihrer 15-jährigen Tochter, schüttelt den Kopf und verlässt kommentarlos das Zimmer.
@@ -38,11 +68,15 @@ Das ==Vier-Ohren-Modell== von Schulz von Thun beschreibt, dass jede Nachricht vi
 ><audio controls><source src="https://download-media.srf.ch/world/audio/WortSchatz_radio/2015/10/WortSchatz-radio_a88ae59d20e546b2af48981d782e0f0a.mp3"></audio>
 >Quelle: [Quelle](https://www.srf.ch/audio/wortschatz/untermiete-von-carol-blanc?id=dd6ca264-cc45-4159-a05c-c8ad617d68f3#autoplay)
 
->[!example]- Beispiel 2
+---
+
+>[!example]- Beispiel 2  
 >Nachdem ein Sohn seine Mutter darum gebeten hat, ihm sein Lieblingsessen zu kochen, fragt er sie beim Essen: „Hast du das Rezept verändert?"
 >![mutter sohn.png|300](/img/user/mutter%20sohn.png)
 
->[!example]- Beispiel 3
+---
+
+>[!example]- Beispiel 3  
 >Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."
 >![mann frau.png|300](/img/user/mann%20frau.png)
 
