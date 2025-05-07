@@ -2,35 +2,23 @@
 {"dg-publish":true,"permalink":"/90-ressourcen/dokumentenmappe/03-auftrag-planung-betriebliche-grundbildung/"}
 ---
 
-
 ## Auftrag «Planung betriebliche Grundbildung»
-
 ### Rahmenbedingungen
-
 - Sozialform: «Einzelarbeit»
-
 - Zeit: 3 Stunden = 180 Minuten
-
 - abzugebende Produkte:
-
 (1)    Betrieblicher Bildungsplan
-
 (2)    Individueller Bildungsplan
-
 (3)    Übersicht über die Überbetrieblichen Kurse (Daten sowie Lernziele)
-
 ### Verlangte Kompetenzen und Lernziele (gemäss Kursvorgabe):
 
 2.1 Die Berufsbildner / innen kennen den Bildungsplan und die Instrumente zur Förderung der betrieblichen Bildung.
-
 ==Lernziel: Sie kennen die zur Verfügung stehenden Ausbildungshilfsmittel. (BiVO, Bildungsplan bzw. Modelllehrgang, QualiCarte und Branchenspezifische Mittel)==
 
 2.2 Die Berufsbildner / innen planen den Bildungsverlauf so, dass alle Elemente des Bildungsplans integriert werden.
-
 ==Lernziel: Sie verstehen die Bildungspläne bzw. Ausbildungsplanungen und wissen, was ein (eigener) betrieblicher Bildungsplan ist und kennen dessen Bedeutung.==
 
 ==Lernziel: Sie können die betriebliche Grundbildung zeitlich und inhaltlich planen und berücksichtigen dabei die betrieblichen Gegebenheiten.==
-
 ### Ablauf und Aufgabe:
 
 1. Lesen Sie im Ordner «Berufliche Grundbildung» das Kapitel «3.2 Planen der betrieblichen Grundbildung» genau durch

@@ -31,6 +31,6 @@ Die Episode beleuchtet die **Pflichten von Berufsbildnern** und zeigt auf, wie s
 
 >[! tip] **Links & Ressourcen:**
 >- [Merkblatt 203 zur Prävention und Handhabung von Krankheit und Unfall](https://www.berufsbildung.ch/de/dokumente/merkblatt-203-krankheit-und-unfall)
->- Informationen zur [Unfallversicherung]([Unfallversicherung](https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html)) und [Krankentaggeldversicherung]([Krankenversicherung: Die freiwillige Taggeldversicherung](https://www.bag.admin.ch/bag/de/home/versicherungen/krankenversicherung/krankenversicherung-versicherte-mit-wohnsitz-in-der-schweiz/freiwillige-taggeldversicherung.html))
+>- Informationen zur [Unfallversicherung](https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html) und [Krankentaggeldversicherung]((https://www.bag.admin.ch/bag/de/home/versicherungen/krankenversicherung/krankenversicherung-versicherte-mit-wohnsitz-in-der-schweiz/freiwillige-taggeldversicherung.html)
 >- Übersicht der [Skalen zur Lohnfortzahlung](https://www.trabeco.ch/fileadmin/media/downloads/Mitarbeiter/KMU_Portal_Berner_Skala.pdf) (Basler, Berner, Zürcher)
 
