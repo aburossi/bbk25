@@ -34,7 +34,7 @@
 Halten Sie die Ergebnisse Ihrer Gruppendiskussion in diesen Bereichen fest. Erstellen Sie eine neue Karte in der jeweiligen Bereich, um Ihre wichtigsten Gedanken und Ideen prägnant zu notieren.
 
 >[!bug]- Pinboard
-><iframe src="https://tools.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?token=919642dc5532154ffb797cf06da1c76b" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
+><iframe src="https://app.fobizz.com/pinboard/public_boards/d08684f4-97a1-4bce-9c79-772c0b01a871?embed=true&token=919642dc5532154ffb797cf06da1c76b" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; width:100%; height:700px" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
 ---
 ## Weiter

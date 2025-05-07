@@ -17,7 +17,9 @@
 >>* Wie stellen Sie sicher, auch in *schwierigen Momenten* ein **positives Vorbild für die Lernenden** zu sein?
 
 > [!success]- Lernziele
->In diesem Modul beschäftigen wir uns mit der **Vorbilderrolle** und der Bedeutung des Coachings für die Entwicklung von Lernenden. Wir betrachten, wie Ihre Einstellung und Verhaltensweisen die Lernenden beeinflussen, und erarbeiten Strategien zur individuellen Förderung. Das Ziel dieses Moduls ist, dass…
+>In diesem Modul beschäftigen wir uns mit der **Vorbilderrolle** und der Bedeutung des Coachings für die Entwicklung von Lernenden. Wir betrachten, wie Ihre Einstellung und Verhaltensweisen die Lernenden beeinflussen, und erarbeiten Strategien zur individuellen Förderung. 
+>
+>**Das Ziel dieses Moduls ist, dass…**
 >* Sie die Bedeutung Ihrer **Vorbildfunktion** verstehen und reflektieren.
 >* Sie **Coaching-Methoden** anwenden können, um die Lernenden individuell zu fördern und zu unterstützen.
 >* Sie einen **positiven Führungsstil** entwickeln, der eine offene und motivierende Lernatmosphäre schafft.
