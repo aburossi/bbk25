@@ -48,7 +48,7 @@
      - Welche allgemeinen Strategien lassen sich ableiten?
      - Welche allgemeinen Strategien lassen sich ableiten?
 
->[!bug]- Pinboard
+>[!bug]- [Pinboard](https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192)
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/1617194e-414a-4c2b-b963-8c2b1b3b999d?token=285c9c3ebd0aa8e230879a4e9034f192" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1200px" allowfullscreen></iframe>
 
 
