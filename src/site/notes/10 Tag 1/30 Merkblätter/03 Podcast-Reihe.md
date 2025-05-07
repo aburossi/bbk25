@@ -15,9 +15,9 @@
 ---
 ## Themen
 - [[90 Ressourcen/Podcast-Reihe/01 Gleichstellung - Sexuelle Belästigung\|Gleichstellung - Sexuelle Belästigung]]
-- [[90 Ressourcen/Podcast-Reihe/alte podcasts/01 Krankheit und Unfall\|Krankheit und Unfall]]
-- [[90 Ressourcen/Podcast-Reihe/alte podcasts/01 Nachteilausgleich - Legasthenie und Diskalkulie\|Nachteilausgleich - Legasthenie und Diskalkulie]]
-- [[90 Ressourcen/Podcast-Reihe/alte podcasts/01 Persönlichkeits- und Datensschutz\|Persönlichkeits- und Datensschutz]]
+- [[90 Ressourcen/Podcast-Reihe/01 Krankheit & Unfall\|Krankheit und Unfall]]
+- [[90 Ressourcen/Podcast-Reihe/01 Nachteilausgleich - Legasthenie & Diskalkulie\|Nachteilausgleich - Legasthenie und Diskalkulie]]
+- [[90 Ressourcen/Podcast-Reihe/01 Persönlichkeits- & Datensschutz\|Persönlichkeits- und Datensschutz]]
 
 >[!info] Hinweis zur Erstellung der Podcasts
 >Die vorliegenden Themen-Podcasts wurden mit Unterstützung des Tools [NotebookLM](https://notebooklm.google/) erstellt und verwenden KI-generierte Stimmen, basierend auf den bereitgestellten Merkblättern.
