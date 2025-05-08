@@ -7,7 +7,7 @@
 > Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Miro-Board fest.
 >---
 > #### Ablauf
-> 1. Sie finden auf dem [PinBoard]() drei beschriftete Bereiche mit den folgenden Überschriften:
+> 1. Sie finden auf dem [PinBoard](https://tools.fobizz.com/pinboard/public_boards/0ee850d4-22fe-4caa-8377-919141c42315?token=0a253ca88f0660efb365950fcf466558) drei beschriftete Bereiche mit den folgenden Überschriften:
 >    - **Anwendung von Instruktionsmethoden in Ihrem Betrieb**
 >    - **Herausforderungen bei der Anwendung**
 >    - **Förderung des autonomen Lernens**

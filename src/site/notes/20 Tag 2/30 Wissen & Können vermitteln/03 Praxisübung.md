@@ -17,7 +17,7 @@
 >1. **Vorbereitung (15 Minuten):**
 >
 >  - Überlegen Sie sich eine Tätigkeit aus Ihrer eigenen Praxis, die Ihre Lernenden ausführen müssen.
->   - Schreiben Sie die wichtigsten Schritte für die Instruktion dieser Tätigkeit auf dem [PinBoard](https://tools.fobizz.com/pinboard/public_boards/fb1ed27b-0448-4338-b07b-48427428fab1?token=16dedddaaea932032e2e52020d3b3fdf) auf.
+>   - Schreiben Sie die wichtigsten Schritte für die Instruktion dieser Tätigkeit auf dem [PinBoard](https://app.fobizz.com/pinboard/public_boards/99bab29c-12cd-48df-a9cc-a75c2282d6de?token=0fb995a7b3a878abea7ef2cbdec29aa7) auf.
 >
 >2. **Partnerarbeit:**
 > - Suchen Sie sich einen Teilnehmer mit einem unterschiedlichen Beruf aus.
@@ -26,7 +26,7 @@
 > - Diskutieren Sie in der Gruppe über die unterschiedlichen Vorstellungen und Ansätze der Instruktion in den verschiedenen Berufen oder Lernbetrieben.
 
 >[!bug]- PinBoard
-><iframe src="https://tools.fobizz.com/pinboard/public_boards/fb1ed27b-0448-4338-b07b-48427428fab1?token=16dedddaaea932032e2e52020d3b3fdf" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+><iframe src="https://app.fobizz.com/pinboard/public_boards/99bab29c-12cd-48df-a9cc-a75c2282d6de?token=0fb995a7b3a878abea7ef2cbdec29aa7" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
 
 ### Auftrag: Instruktionen schriftlich festhalten
 >[!abstract]- Im Detail

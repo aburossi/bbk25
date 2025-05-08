@@ -28,4 +28,4 @@
 >[!bug]- Pinboard
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/530e8cc1-726c-4fa6-b1bb-bf391d92d6a6?token=42c5473400fbb12e2aefc7570bb9d9ea" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="1000px" allowfullscreen></iframe>
 ## Weiter
-[[20 Tag 2/20 Führen & Motivieren/material/04 Fallbeispiele Führen & Motivieren\|04 Fallbeispiele Führen & Motivieren]]
+[[20 Tag 2/20 Führen & Motivieren/03 Fallbeispiele\|03 Fallbeispiele]]
