@@ -32,19 +32,28 @@
 ---
 
 >[!note]- **Fallbeispiel Rot: Die unmotivierte Kauffrau**
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/d45c1edc-089e-40ca-837d-5eef377a597a?token=129344a1002faff5585257a795238982)
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/d45c1edc-089e-40ca-837d-5eef377a597a?token=129344a1002faff5585257a795238982" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
 
 >[!note]- **Fallbeispiel Grün: Der frustrierte Polymechaniker**
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/2cc65c4e-59f7-464a-9f80-899a573e76fe?token=69d31b52234aa56e28ac96fb31cb827d)
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/2cc65c4e-59f7-464a-9f80-899a573e76fe?token=69d31b52234aa56e28ac96fb31cb827d" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/2cc65c4e-59f7-464a-9f80-899a573e76fe?token=69d31b52234aa56e28ac96fb31cb827d)
 
 >[!note]- **Fallbeispiel Grau: Die konfliktscheue Detailhandelsfachfrau**
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/3dd9c895-3939-44e9-8ccf-6fc00227fe1c?token=0e808943e17bc599b5050064777eecb6)
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/3dd9c895-3939-44e9-8ccf-6fc00227fe1c?token=0e808943e17bc599b5050064777eecb6" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/3dd9c895-3939-44e9-8ccf-6fc00227fe1c?token=0e808943e17bc599b5050064777eecb6)
 
 >[!note]- **Fallbeispiel Orange: Der unkonzentrierte Informatiker**
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/3ce4930d-899e-45af-88c1-9fc637bc7dd5?token=4180450e128bc9752f1ecc62a2b078f3)
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/3ce4930d-899e-45af-88c1-9fc637bc7dd5?token=4180450e128bc9752f1ecc62a2b078f3" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/3ce4930d-899e-45af-88c1-9fc637bc7dd5?token=4180450e128bc9752f1ecc62a2b078f3)
 
 >[!note]- **Fallbeispiel Blau: Die ehrgeizige Köchin**
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c)
 ><iframe src="https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="700px" width="100%" allowfullscreen></iframe>
+>[Direkten Link zum Pinboard](https://tools.fobizz.com/pinboard/public_boards/ce76b5e9-c6ec-41ac-9a9b-e41580719de9?token=2b48613957de5e43be0e3ea74560f27c)
 
 ---
 
