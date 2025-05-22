@@ -4,7 +4,7 @@
 
 > [!note] **Überfliegen** Sie die **Seiten 239-241** im Handbuch. Machen Sie sich mit den **Instruktionsmethoden** und der **6-Schritte-Methode** vertraut.
 >
-> Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Miro-Board fest.
+> Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem PinBoard fest.
 >---
 > #### Ablauf
 > 1. Sie finden auf dem [PinBoard](https://tools.fobizz.com/pinboard/public_boards/0ee850d4-22fe-4caa-8377-919141c42315?token=0a253ca88f0660efb365950fcf466558) drei beschriftete Bereiche mit den folgenden Überschriften:
