@@ -13,7 +13,7 @@
 >>[!question]- Diskussion Ausbildung im Betrieb:  Herausforderungen und Chancen
 >>Die Ausbildung von Lernenden im Betrieb ist eine verantwortungsvolle Aufgabe, die sowohl Chancen als auch Herausforderungen mit sich bringt. Tauschen Sie sich kurz mit Ihren Nachbarn (oder reflektieren Sie alleine) über die folgenden Fragen aus:
 >>* Welche **Herausforderungen** sehen Sie bei der Ausbildung von Lernenden in Ihrem Betrieb?
->>* Welche **Chancen** bietet die betriebliche Ausbildung für die Lernenden und den Betrieb?
+>>* Welche **Chancen** bietet die betriebliche Ausbildung für Ihre Lernenden und Ihrem Betrieb?
 >>* Welche **Erfahrungen** haben Sie bereits als Berufsbildner/in – **positive wie negative**?
 
 >[!success]- Lernziele

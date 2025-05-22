@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/20-tag-2/20-fuehren-and-motivieren/02-motivationsfaktoren/"}
 ---
 
->[!abstract] **Überfliegen** Sie die **Seiten 158-159 im Handbuch**. Machen Sie sich mit den verschiedenen **==Motivationsfaktoren==** und der ==**Checkliste** «**Motivation fördern und pflegen**»== vertraut.
+>[!abstract] **Überfliegen** Sie die **Seiten 158-159 im Handbuch**. Machen Sie sich mit den verschiedenen **Motivationsfaktoren** und der **Checkliste** «**Motivation fördern und pflegen**» vertraut.
 >**Besprechen Sie in Ihrer Gruppe die folgenden Reflexionsfragen und halten Sie Ihre Ergebnisse auf dem PinBoard fest.**
 >---
 >#### Ablauf
