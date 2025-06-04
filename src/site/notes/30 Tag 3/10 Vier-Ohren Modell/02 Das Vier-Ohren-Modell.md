@@ -80,12 +80,21 @@ Reflexion:
 ---
 
 >[!example]- Beispiel 3  
-><span style="font-size: 24px;">Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."</span>
+><span style="font-size: 24px;">Ein Paar sitzt im Auto. Die Frau fährt 70 km/h und der Mann sagt zu ihr: „Man darf hier 80 fahren."</span>
 > 1. Was wird gesendet – und was empfangen?
 > 2. Welche Botschaften könnten auf den verschiedenen Ebenen mitgeschwungen haben?
 > 3. Welche Missverständnisse könnten entstehen?
 > 4. Wie hätte man diese Missverständnisse verhindern können?
 > ![mann frau.png|500](/img/user/mann%20frau.png)
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1; font-size: 20px;">
+    <p>Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."</p>
+  </div>
+  <div>
+    <img src="mann frau.png" width="500">
+  </div>
+</div>
 
 
 
