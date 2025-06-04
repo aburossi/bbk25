@@ -4,9 +4,7 @@
 
 ## Der Interventionsleitfaden als Methode
 
-> [!info] **Interventionsleitfaden**
-> 
-> Der **[[30 Tag 3/20 Gespräche&Konflikte/Interventionsleitfaden\|Interventionsleitfaden]]** bietet eine strukturierte Vorgehensweise für Gespräche mit Lernenden, insbesondere in herausfordernden Situationen. Er hilft dabei, Gespräche zielgerichtet zu planen und durchzuführen, um gemeinsam Lösungen zu erarbeiten.
+
 
 >[!tip]- Gesprächsvorbereitung
 > * **Information sammeln:** Verschaffen Sie sich einen Überblick über die Situation. Informieren Sie sich bei Bedarf bei Kollegen oder Lehrpersonen.
@@ -30,6 +28,10 @@
 > 7. **Zielvereinbarung treffen:** Konkrete Ziele festlegen und dokumentieren.
 > 8. **Kontrollgespräch vereinbaren:** Termin für ein Folgegespräch festlegen.
 > **Hinweis:** Je nach Fortschritt können mehrere Gespräche notwendig sein. Bei ausbleibender Verbesserung sollten weitere Schritte in Betracht gezogen werden.
+
+> [!info] **Interventionsleitfaden**
+> 
+> Der **[[30 Tag 3/20 Gespräche&Konflikte/Interventionsleitfaden\|Interventionsleitfaden]]** bietet eine strukturierte Vorgehensweise für Gespräche mit Lernenden, insbesondere in herausfordernden Situationen. Er hilft dabei, Gespräche zielgerichtet zu planen und durchzuführen, um gemeinsam Lösungen zu erarbeiten.
 
 ## Weiter
 [[30 Tag 3/20 Gespräche&Konflikte/03 Anwendung des Interventionsleitfadens\|03 Anwendung des Interventionsleitfadens]]

@@ -19,5 +19,7 @@
 > * Sie können die Vorteile einer guten Gesprächsvorbereitung benennen.
 > * Sie reflektieren über Ihre Rolle als Gesprächsführende und Coach.
 
+
+
 ## Weiter
 [[30 Tag 3/20 Gespräche&Konflikte/02 Der Interventionsleitfaden als Methode\|02 Der Interventionsleitfaden als Methode]]
