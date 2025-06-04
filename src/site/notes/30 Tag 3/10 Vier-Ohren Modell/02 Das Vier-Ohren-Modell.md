@@ -86,15 +86,10 @@ Reflexion:
 > 3. Welche Missverständnisse könnten entstehen?
 > 4. Wie hätte man diese Missverständnisse verhindern können?
 > ![mann frau.png|500](/img/user/mann%20frau.png)
+>
+><div style="display: flex; align-items: center; width: 100%;"><div style="width: 50%; font-size: 20px; text-align: center;">Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."</div><div style="width: 50%; text-align: center;"><img src="mann frau.png" width="600"></div></div>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1; font-size: 20px;">
-    <p>Ein Paar sitzt im Auto. Die Frau fährt 90 km/h und der Mann sagt zu ihr: „Man darf hier 100 fahren."</p>
-  </div>
-  <div>
-    <img src="mann frau.png" width="500">
-  </div>
-</div>
+
 
 
 
