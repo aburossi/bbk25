@@ -5,8 +5,8 @@
 ## Das Vier-Ohren-Modell
 
 >[!abstract] Einführung
->Haben Sie sich schon einmal gefragt, warum Missverständnisse in der Kommunikation so häufig auftreten? Das **Vier-Ohren-Modell** von **Friedemann Schulz von Thun** bietet eine Erklärung dafür. 
->Jede Nachricht, die wir senden oder empfangen, hat vier Seiten: **Sachinhalt**, **Selbstoffenbarung**, **Beziehung** und **Appell**. Dieses Modell hilft uns, die *Komplexität der zwischenmenschlichen Kommunikation besser zu verstehen und bewusst zu reflektieren*.
+><span style="font-size: 20px;">Haben Sie sich schon einmal gefragt, warum Missverständnisse in der Kommunikation so häufig auftreten? Das **Vier-Ohren-Modell** von **Friedemann Schulz von Thun** bietet eine Erklärung dafür. 
+>Jede Nachricht, die wir senden oder empfangen, hat vier Seiten: **Sachinhalt**, **Selbstoffenbarung**, **Beziehung** und **Appell**. Dieses Modell hilft uns, die *Komplexität der zwischenmenschlichen Kommunikation besser zu verstehen und bewusst zu reflektieren*.</span>
 >
 >>[!question] Kommunikation und Missverständnisse
 >>* Wann haben Sie zuletzt ein Missverständnis in einem Gespräch erlebt? Was glauben Sie, woran es lag?

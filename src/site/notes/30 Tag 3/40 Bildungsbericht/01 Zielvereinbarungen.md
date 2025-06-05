@@ -6,7 +6,7 @@
 ## Zielvereinbarungen: Klarheit schaffen und Motivation fördern
 
 >[!abstract] Einführung
->Sie **führen ein Gespräch mit einem Ihrer Lernenden** über seine Fortschritte und wollen **gemeinsam die Ziele für die nächste Phase der Ausbildung festlegen**. Doch die **Formulierung der Ziele bleibt vage**, und die Umsetzung fällt schwer. Wie können Sie sicherstellen, dass Ziele **klar**, **umsetzbar** und **motivierend** formuliert werden? 
+><span style="font-size: 20px;">Sie **führen ein Gespräch mit einem Ihrer Lernenden** über seine Fortschritte und wollen **gemeinsam die Ziele für die nächste Phase der Ausbildung festlegen**. Doch die **Formulierung der Ziele bleibt vage**, und die Umsetzung fällt schwer. Wie können Sie sicherstellen, dass Ziele **klar**, **umsetzbar** und **motivierend** formuliert werden?</span>
 >* **Zielvereinbarungen** schaffen Orientierung und fördern die Entwicklung.
 >* Unterschiedliche **Methoden** helfen dabei, **klare und realistische Ziele** zu setzen.
 >* Als Berufsbildner/-in spielen Sie eine zentrale Rolle bei der **Gestaltung wirksamer Zielvereinbarungen**.

@@ -4,7 +4,7 @@
 
 > [!abstract] **Einführung**
 > 
-> Haben Sie schon einmal festgestellt, wie wichtig es ist, Gespräche strukturiert und zielgerichtet zu führen? In der Ausbildung von Lernenden treten häufig Situationen auf, in denen ein **klärendes Gespräch** notwendig wird. Ein gut vorbereiteter und **durchdachter Gesprächsleitfaden kann dabei helfen, Missverständnisse zu vermeiden** und effektive Lösungen zu finden.
+> <span style="font-size: 20px;">Haben Sie schon einmal festgestellt, wie wichtig es ist, Gespräche strukturiert und zielgerichtet zu führen? In der Ausbildung von Lernenden treten häufig Situationen auf, in denen ein **klärendes Gespräch** notwendig wird. Ein gut vorbereiteter und **durchdachter Gesprächsleitfaden kann dabei helfen, Missverständnisse zu vermeiden** und effektive Lösungen zu finden.</span>
 > 
 >>[!question] **Die Bedeutung strukturierter Gespräche**
 >>Tauschen Sie sich kurz mit Ihren Nachbarn (oder reflektieren Sie alleine) über folgende Fragen:

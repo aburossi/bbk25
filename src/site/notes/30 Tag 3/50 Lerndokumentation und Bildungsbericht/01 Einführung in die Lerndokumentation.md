@@ -3,7 +3,7 @@
 ---
 
 >[!abstract] **Die Lerndokumentation**
->Ein neuer Lehrling beginnt seine Ausbildung in Ihrem Betrieb. Mit der **Lerndokumentation** möchte man sicherstellen, dass er seine **Lernerfahrungen optimal reflektieren und dokumentieren** kann. Gleichzeitig soll die Dokumentation Ihnen als Berufsbildner eine **Grundlage für gezieltes Feedback und die Förderung der Lernentwicklung** bieten.
+><span style="font-size: 20px;">Ein neuer Lehrling beginnt seine Ausbildung in Ihrem Betrieb. Mit der **Lerndokumentation** möchte man sicherstellen, dass er seine **Lernerfahrungen optimal reflektieren und dokumentieren** kann. Gleichzeitig soll die Dokumentation Ihnen als Berufsbildner eine **Grundlage für gezieltes Feedback und die Förderung der Lernentwicklung** bieten.</span>
 
 >[!success]- **Lernziele**
 >In dieser Einheit setzen wir uns mit der **Lerndokumentation** als zentralen Bestandteil der Bildungsarbeit auseinander. Sie lernen, wie Sie die Lerndokumentation als Werkzeug zur Förderung der Selbstreflexion und Lernentwicklung Ihrer Lernenden einsetzen können.  

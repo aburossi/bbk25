@@ -94,7 +94,6 @@ Die Gespräche beginnen mit einem informellen, persönlichen Gespräch, werden d
 
 > [!tip] **Ich-Botschaften**  
 > Jede Person hat eine andere Wirklichkeit! Aus diesem Grund ist es zwingend, in der Ich-Form zu sprechen.
->
 >- **„Ich bin der Meinung...“**
 >- **„Mir ist aufgefallen, dass...“**
 >
