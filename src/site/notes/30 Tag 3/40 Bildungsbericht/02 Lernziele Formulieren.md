@@ -53,4 +53,4 @@
 ---
 
 ## Weiter
-[[03 Bildungsberichte\|03 Bildungsberichte]]
+[[30 Tag 3/40 Bildungsbericht/03 Ziele mit KI formulieren\|03 Ziele mit KI formulieren]]
