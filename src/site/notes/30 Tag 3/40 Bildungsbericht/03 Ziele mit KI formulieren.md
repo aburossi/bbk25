@@ -40,7 +40,7 @@
 >>
 >>3. **Interaktion mit dem Lernziel-Chatbot:**
 >>   - **Öffnen Sie den Chatbot über den folgenden Link/das bereitgestellte Tool:**
->>     *https://app.fobizz.com/go*
+>>     https://app.fobizz.com/go. Nutzen Sie den Code auf der Rückseite ihres Namenstafels
 >>   - Geben Sie die **kopierte Handlungskompetenz oder das Leistungsziel** in das dafür vorgesehene Feld des Chatbots ein.
 >>   - Beantworten Sie die **Rückfragen des Chatbots** zu Beruf, Lehrjahr und Erfahrungsstand des Lernenden.
 >>   - Der Chatbot wird Ihnen anschliessend sechs Lernzielvorschläge generieren, die den Stufen der Bloom'schen Taxonomie zugeordnet sind.
