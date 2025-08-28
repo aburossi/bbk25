@@ -24,5 +24,11 @@
 >* Sie **sicher im Umgang mit herausfordernden Situationen** im Berufsalltag sind.
 
 ---
+
+
+<iframe src="https://aburossi.github.io/prezi/BBK/eigenheiten/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
+
+[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/eigenheiten)
+
 ## Weiter
 [[10 Tag 1/20 Eigenheiten junger Erwachsener/02 Herausforderungen und Chancen\|02 Herausforderungen und Chancen]]

@@ -25,5 +25,9 @@
 >* Sie einen **positiven Führungsstil** entwickeln, der eine offene und motivierende Lernatmosphäre schafft.
 
 ---
+
+<iframe src="https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
+
+[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin)
 ## Weiter
 [[10 Tag 1/10 Rolle BerufsbildnerIn/02 Vorbilder und Coaches für den Lernerfolg\|02 Vorbilder und Coaches für den Lernerfolg]]

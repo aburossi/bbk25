@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/10-tag-1/10-rolle-berufsbildner-in/02-vorbilder-und-coaches-fuer-den-lernerfolg/"}
 ---
 
-<iframe src="https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
-
-[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/rolle_berufsbildnerin)
-
 ## Auftrag
 
 >[!note] Überfliegen Sie die Seiten 252-253 im Handbuch. Merken Sie sich die **vier Merkmale eines positiven Vorbilds**. Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Pinboard fest.

@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/10-tag-1/20-eigenheiten-junger-erwachsener/02-herausforderungen-und-chancen/"}
 ---
 
-
-<iframe src="https://aburossi.github.io/prezi/BBK/eigenheiten/#/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="550px" width="100%" allowfullscreen></iframe>
-
-[Präsentation in einem neuen Fenster öffnen](https://aburossi.github.io/prezi/BBK/eigenheiten)
-
----
 ## Auftrag
 
 >[!note] Überfliegen Sie die Seite(n) 267-268 im Handbuch. Machen Sie sich mit den **wichtigsten Aspekten des Reifeprozesses**, des **Spannungsfeldes zwischen Kindheit und Erwachsenenalter**, der **Ablösung von zu Hause** und der **Bedeutung des Experimentierens in der Adoleszenz** vertraut.
