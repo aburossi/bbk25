@@ -34,7 +34,7 @@ Der Podcast beleuchtet alle **relevanten Versicherungsaspekte** und **Pflichten 
 
 >[! tip] **Links & Ressourcen:**
 >- [Merkblatt 203 zur Prävention und Handhabung von Krankheit und Unfall](https://www.berufsbildung.ch/de/dokumente/merkblatt-203-krankheit-und-unfall)
->- Informationen zur [Unfallversicherung](https://www.bag.admin.ch/bag/de/home/versicherungen/unfallversicherung.html) und [Krankentaggeldversicherung]((https://www.bag.admin.ch/bag/de/home/versicherungen/krankenversicherung/krankenversicherung-versicherte-mit-wohnsitz-in-der-schweiz/freiwillige-taggeldversicherung.html)
+>- Informationen zur [Unfallversicherung](https://www.bag.admin.ch/de/unfallversicherung) und [die freiwillige Taggeldversicherung](https://www.bag.admin.ch/de/krankenversicherung-die-freiwillige-taggeldversicherung)
 >- Übersicht der [Skalen zur Lohnfortzahlung](https://www.trabeco.ch/fileadmin/media/downloads/Mitarbeiter/KMU_Portal_Berner_Skala.pdf) (Basler, Berner, Zürcher)
 
 ### ⏫ [[10 Tag 1/30 Merkblätter/03 Podcast-Reihe\|Podcast-Reihe]]
