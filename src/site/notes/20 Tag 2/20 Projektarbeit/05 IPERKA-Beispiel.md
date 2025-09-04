@@ -39,7 +39,7 @@
 
 - **Kreativität**: Die Lernenden finden kreative Lösungen, um auftretende Stolpersteine zu überwinden.
 - **Kritisches Denken**: Sie reflektieren ständig über ihre Arbeitsweise, hinterfragen Zwischenergebnisse und nehmen notwendige Anpassungen vor.
-- **Kommunikation**: Sie stimmen sich regelmäßig mit der Berufsbildnerin und dem Team ab, um sicherzustellen, dass das Projekt auf Kurs bleibt.
+- **Kommunikation**: Sie stimmen sich regelmässig mit der Berufsbildnerin und dem Team ab, um sicherzustellen, dass das Projekt auf Kurs bleibt.
 - **Kollaboration**: Die Umsetzung erfolgt im Team, wobei jeder seine Rolle versteht und Verantwortung übernimmt.
 
 ---
@@ -48,7 +48,7 @@
 
 - **Kreativität**: Sie entwickeln innovative Selbstkontrollkriterien, um die Qualität und den Fortschritt des Projekts zu überprüfen.
 - **Kritisches Denken**: Die Lernenden bewerten kritisch, ob das Projekt den Anforderungen entspricht, und identifizieren Schwachstellen.
-- **Kommunikation**: Sie berichten regelmäßig über den Projektstatus und tauschen sich über mögliche Optimierungen aus.
+- **Kommunikation**: Sie berichten regelmässig über den Projektstatus und tauschen sich über mögliche Optimierungen aus.
 - **Kollaboration**: Die Lernenden arbeiten eng mit anderen zusammen, um Feedback zu erhalten und sicherzustellen, dass alle auf dem gleichen Stand sind.
 
 ---
