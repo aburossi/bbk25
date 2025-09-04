@@ -26,6 +26,7 @@
 >	- Wie hat die Übernahme der Filialleitung den Lernenden geholfen, ihre Selbstständigkeit und ihr Verantwortungsbewusstsein zu entwickeln?
 >	- Welche Herausforderungen wurden dabei erwähnt, und wie wurden diese bewältigt?
 >- **Motivation und intrinsische Werte**
+>	- Lesen Sie diese Definitionen von [[90 Ressourcen/Glossar/Intrinsische Motivation\|Intrinsische Motivation]] und [[90 Ressourcen/Glossar/Extrinsische Motivation\|Extrinsische Motivation]].
 >	- Wie hat der Lehrlingsladen dazu beigetragen, die Motivation der Lernenden zu fördern?
 >	- Welche Elemente des Projekts könnten darauf abzielen, die intrinsische Motivation der Teilnehmenden zu stärken?
 

@@ -3,27 +3,31 @@
 ---
 
 # 🔍Was ist es?
-- **Intrinsische Motivation** beschreibt den **inneren Antrieb**, der Menschen dazu bewegt, eine Tätigkeit auszuüben, weil sie diese als **sinnvoll, interessant oder erfüllend** empfinden.
-- Sie ist unabhängig von **äußeren Belohnungen** wie Geld oder Lob und basiert auf **persönlichem Interesse** oder **innerer Freude**.
-- Beispiele sind das Lernen eines neuen Hobbys oder die Bearbeitung einer spannenden Aufgabe im Beruf.
+**Intrinsische Motivation** ist der **innere Antrieb**, eine Handlung auszuführen, weil die Tätigkeit an sich als **erfüllend**, **interessant** oder **freudvoll** empfunden wird. Sie entsteht aus **persönlichen Interessen** und Bedürfnissen, nicht durch äussere Anreize.
 
-# ❗Warum es wichtig ist?
-- **Fördert langfristiges Engagement**: Menschen bleiben länger motiviert, wenn sie von intrinsischen Gründen angetrieben werden.
-- **Verbessert die Leistung**: Tätigkeiten, die intrinsisch motivieren, werden oft mit höherer **Qualität** ausgeführt.
-- **Stärkt die Zufriedenheit**: Innere Motivation führt zu einem höheren Maß an **Zufriedenheit** und **Wohlbefinden**.
-- **Ermöglicht kreatives Denken**: Ohne äußeren Druck können Menschen **innovative Lösungen** entwickeln.
-- **Erhöht die Resilienz**: Intrinsisch motivierte Personen sind eher bereit, Hindernisse zu überwinden.
+- Der Antrieb kommt von **innen** heraus, beispielsweise aus **Neugier**, **Spass** an der Herausforderung oder dem Wunsch nach **persönlichem Wachstum**.
+- Im Gegensatz zur **extrinsischen Motivation**, die durch äussere Faktoren wie **Geld**, **Anerkennung** oder **Strafvermeidung** angetrieben wird, ist die Belohnung hier die **Tätigkeit selbst**.
+- Ein zentrales Konzept ist das **Flow-Erleben**, ein Zustand, in dem man völlig in einer Aufgabe aufgeht und die Zeit vergisst.
 
-# ⛏Wie es funktioniert?
-- **Selbstbestimmung**: Menschen fühlen sich motiviert, wenn sie **autonom** entscheiden können, wie sie eine Aufgabe angehen.
-- **Kompetenz erleben**: Wenn sie ihre **Fähigkeiten** einsetzen und weiterentwickeln können, steigt ihre intrinsische Motivation.
-- **Verbundenheit**: Die Verbindung zu anderen oder einem größeren Zweck kann die innere Motivation verstärken.
-- **Flow-Erfahrung**: Tätigkeiten, die herausfordernd, aber machbar sind, fördern das Gefühl des **Flows**, einen Zustand völliger Vertiefung.
+# ❗Warum ist es wichtig?
+- **Nachhaltige Leistung**: Intrinsisch motivierte Personen zeigen oft eine **höhere** und **konstantere Leistungsbereitschaft**, da ihr Antrieb nicht von externen Belohnungen abhängt.
+- **Kreativität und Problemlösung**: Der **innere Antrieb** fördert die **Kreativität** und die Bereitschaft, neue und komplexe **Lösungswege** zu finden.
+- **Höhere Zufriedenheit**: Tätigkeiten, die aus **intrinsischer Motivation** ausgeführt werden, führen zu mehr **Zufriedenheit** und **Wohlbefinden** im Beruf und im Privatleben.
+- **Persönliches Wachstum**: Sie treibt Menschen an, **neue Fähigkeiten** zu erlernen und sich **persönlich weiterzuentwickeln**, einfach aus Freude am Lernen.
+- **Resilienz und Ausdauer**: Bei Schwierigkeiten und Rückschlägen geben intrinsisch motivierte Menschen **weniger schnell auf**, weil sie einen **tieferen Sinn** in ihrer Tätigkeit sehen.
 
-# ➕Weitere Quellen
-- [🎞 Videos über intrinsische Motivation](https://www.google.ch/search?q=intrinsische+Motivation&tbm=vid)
-- [📰 Nachrichten über intrinsische Motivation](https://www.google.ch/search?q=intrinsische+Motivation&tbm=nws)
-- [⏬ extrinsische Motivation](https://www.google.ch/search?q=extrinsische+Motivation)
-- [⏬ Selbstbestimmungstheorie](https://www.google.ch/search?q=Selbstbestimmungstheorie)
-- [⏬ Flow-Theorie](https://www.google.ch/search?q=Flow-Theorie)
-- [⏬ Arbeitsmotivation](https://www.google.ch/search?q=Arbeitsmotivation)
+# ⛏Wie funktioniert es?
+- **Selbstbestimmungstheorie**: Nach den Psychologen **Deci** und **Ryan** wird intrinsische Motivation durch die Erfüllung von drei psychologischen **Grundbedürfnissen** gestärkt:
+    - **Autonomie**: Das Gefühl, **selbst über sein Handeln bestimmen** zu können und **freie Entscheidungen** zu treffen.
+    - **Kompetenz**: Das Erleben der eigenen **Wirksamkeit** und das Gefühl, Herausforderungen **erfolgreich meistern** zu können.
+    - **Soziale Eingebundenheit**: Das Bedürfnis, sich mit anderen **verbunden** zu fühlen und **positive soziale Beziehungen** zu pflegen.
+- **Interesse und Sinnhaftigkeit**: Eine Tätigkeit, die als **persönlich interessant** oder **sinnvoll** empfunden wird, weckt und erhält die intrinsische Motivation.
+- **Passende Herausforderungen**: Aufgaben, die **weder unter- noch überfordern**, sondern ein **optimales Mass an Herausforderung** bieten, fördern den **Flow-Zustand** und die Motivation.
+- **Positives Feedback**: Anerkennung und konstruktives Feedback, das sich auf die **Leistung** und den **Fortschritt** bezieht (nicht nur auf das Ergebnis), kann das **Kompetenzerleben** und somit die intrinsische Motivation stärken.
+
+# ➕Weiterführende Quellen
+[🎞 Videos über intrinsische Motivation](https://www.google.ch/search?q=intrinsische+Motivation&tbm=vid)
+[📰 News über intrinsische Motivation in der Arbeitswelt](https://www.google.ch/search?q=intrinsische+Motivation+in+der+Arbeitswelt&tbm=nws)
+[⏬ Intrinsische vs. extrinsische Motivation](https://www.google.ch/search?q=Intrinsische+vs.+extrinsische+Motivation)
+[⏬ Selbstbestimmungstheorie nach Deci und Ryan](https://www.google.ch/search?q=Selbstbestimmungstheorie+nach+Deci+und+Ryan)
+[⏬ Flow-Theorie nach Csikszentmihalyi](https://www.google.ch/search?q=Flow-Theorie+nach+Csikszentmihalyi)
