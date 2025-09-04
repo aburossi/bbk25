@@ -12,13 +12,13 @@
 >> - ... die **unterschiedlichen Ansätze** der Instruktion in verschiedenen Berufen **kennenlernen**.
 >> - ... die **Reflexion** über Instruktionsmethoden in verschiedenen Kontexten **anregen**.
 
->[!note] **Überfliegen Sie nochmals die Seiten 239-241 im Handbuch.**
+>[!note] <span style="font-size:150%;">**Überfliegen Sie nochmals die Seiten 239-241 im Handbuch.**</span>
 >#### Ablauf
 >1. **Vorbereitung (15 Minuten):**
 >
 >  - Überlegen Sie sich eine Tätigkeit aus Ihrer eigenen Praxis, die Ihre Lernenden ausführen müssen.
 >   - Schreiben Sie die wichtigsten Schritte für die Instruktion dieser Tätigkeit auf dem [PinBoard](https://app.fobizz.com/pinboard/public_boards/99bab29c-12cd-48df-a9cc-a75c2282d6de?token=0fb995a7b3a878abea7ef2cbdec29aa7) auf.
->>[!abstract] Auftrag: Instruktionen schriftlich festhalten
+>>[!abstract] <span style="font-size:150%;">Auftrag: Instruktionen schriftlich festhalten</span>
 >>Verfassen Sie für **eine Tätigkeit aus Ihrem Berufsfeld** schriftliche Instruktionen **nach dem Schema der 4-Schritte-Methode**.
 >>
 >>**Schema der 4-Schritte-Methode:**
@@ -28,7 +28,7 @@
 >>3.  **Kontrollieren:** Beschreiben Sie, wie der/die Ausbildner/in den Lernprozess kontrolliert und Feedback gibt.
 >>4.  **Korrigieren:** Beschreiben Sie, wie Fehler korrigiert und die korrekte Ausführung sichergestellt wird.
 >>
->>>[!example] Beruf Hufschmied, Auftrag "Vorbereiten eines Hufes zum Beschlagen**
+>>>[!example]- Beispiel Hufschmied, Auftrag **Vorbereiten eines Hufes zum Beschlagen**
 >>>
 >>>- **Demonstrieren:** Der/die Hufschmied/in demonstriert das korrekte Vorgehen beim Vorbereiten eines Hufes. Er/Sie zeigt das Auskratzen des Hufes mit dem Hufkratzer, das Beurteilung des Hufes (Form, Winkel, Zustand), das Kürzen der Hufwand mit der Hufzange und dem Hufmesser, sowie das Glätten der Tragfläche mit der Raspel.  Er/Sie erklärt dabei jeden Schritt und die Werkzeuge.
 >>>- **Nachvollziehen*:** Der/die Lernende bearbeitet selbstständig einen Huf unter Anleitung und Aufsicht des/der Hufschmieds/in.

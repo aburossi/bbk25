@@ -4,14 +4,13 @@
 
 ## Methodische Hinweise für die betriebliche Bildung und Planung der Ausbildungsschritte
 
->[!abstract] Einführung
->Stellen Sie sich vor, ein neuer Auszubildender steht vor Ihnen und ist bereit, die Feinheiten Ihres Berufs zu erlernen.  Wie vermitteln Sie ihm **Wissen und Können** am effektivsten?  Welche **Methoden** wählen Sie, um ihn Schritt für Schritt zu begleiten und seine **Lernentwicklung** zu fördern? Und wie planen Sie die einzelnen **Ausbildungsschritte**, damit der Lernende am Ende der Ausbildungszeit selbstständig und kompetent arbeiten kann?
+>[!abstract] <span style="font-size:150%;">Stellen Sie sich vor, ein neuer Auszubildender steht vor Ihnen und ist bereit, die Feinheiten Ihres Berufs zu erlernen.  Wie vermitteln Sie ihm **Wissen und Können** am effektivsten?  Welche **Methoden** wählen Sie, um ihn Schritt für Schritt zu begleiten und seine **Lernentwicklung** zu fördern? Und wie planen Sie die einzelnen **Ausbildungsschritte**, damit der Lernende am Ende der Ausbildungszeit selbstständig und kompetent arbeiten kann?</span>
 >
 >- Die **Ausbildung im Betrieb** erfordert didaktisches Geschick und eine gut durchdachte Planung.
 >- Eine systematische Vorgehensweise bei der **Instruktionsgestaltung** und **Ausbildungsplanung** ist der Schlüssel zum Erfolg.
 >- Als **Berufsbildner** spielen Sie eine zentrale Rolle in der **Förderung des Lernerfolgs** Ihrer Auszubildenden.
->>[!question] Diskussion Ausbildung im Betrieb:  Herausforderungen und Chancen
->>Die Ausbildung von Lernenden im Betrieb ist eine verantwortungsvolle Aufgabe, die sowohl Chancen als auch Herausforderungen mit sich bringt. Tauschen Sie sich kurz mit Ihren Nachbarn (oder reflektieren Sie alleine) über die folgenden Fragen aus:
+>>[!question] Herausforderungen und Chancen
+>><span style="font-size:150%;">Tauschen Sie sich kurz mit Ihren Nachbarn (oder reflektieren Sie alleine) über die folgenden Fragen aus:</span>
 >>* Welche **Herausforderungen** sehen Sie bei der Ausbildung von Lernenden in Ihrem Betrieb?
 >>* Welche **Chancen** bietet die betriebliche Ausbildung für Ihre Lernenden und Ihrem Betrieb?
 >>* Welche **Erfahrungen** haben Sie bereits als Berufsbildner/in – **positive wie negative**?
