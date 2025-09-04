@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/20-tag-2/10-wissen-and-koennen-vermitteln/02-instruktionsmethoden/"}
 ---
 
-> [!note] **Überfliegen** Sie die **Seiten 239-241** im Handbuch. Machen Sie sich mit den **Instruktionsmethoden** und der **6-Schritte-Methode** vertraut.
+
+> [!note] <span style="font-size:150%;"><strong>Überfliegen</strong> Sie die <strong>Seiten 239-241</strong> im Handbuch. Machen Sie sich mit den <strong>Instruktionsmethoden</strong> und der <strong>6-Schritte-Methode</strong> vertraut.</span>
 >
 > Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem PinBoard fest.
 >>[!question] **Reflexionsfragen**
