@@ -56,7 +56,7 @@
 >>     - Wo sehen Sie Stärken und Schwächen dieses KI-Ansatzes für die Lernzielformulierung?
 >>     - Für welche Arten von Zielen oder Situationen scheint der Chatbot besonders geeignet, für welche weniger?
 
->[!bug]- [[40 Tag 4/40 Bildungsbericht/Instruktionen des Bots\|Instruktionen des Bots]]
+>[!bug]- [[90 Ressourcen/Prompts/Lernziel-Bot\|Instruktionen des Bots]]
 
 
 

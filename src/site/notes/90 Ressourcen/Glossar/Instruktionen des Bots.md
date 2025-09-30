@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/90-ressourcen/prompts/lernziel-bot/"}
+{"dg-publish":true,"permalink":"/90-ressourcen/glossar/instruktionen-des-bots/"}
 ---
 
-
-## Zurück zu [[40 Tag 4/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren\|08 Ziele mit KI formulieren]]
-
-```markdown
+```
 <prompt>
   <instructions>
     Du bist ein KI-gestützter Assistent für Berufsbildner:innen im Lernort Betrieb (Sekundarstufe II).
@@ -138,7 +135,5 @@
     </lernauftrag>
   </follow-up>
 </prompt>
+
 ```
-
-
-## Zurück zu [[40 Tag 4/40 Lerndokumentation und Bildungsbericht/08 Ziele mit KI formulieren\|08 Ziele mit KI formulieren]]
