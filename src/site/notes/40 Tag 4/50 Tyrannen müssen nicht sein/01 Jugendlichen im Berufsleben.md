@@ -90,17 +90,12 @@
 >1. **Kapitel 3 - Wieso junge Erwachsene sich wie Kleinkinder verhalten**
 >2. **Kapitel 4 - Mikrokosmos Arbeitsmarkt – Wenn der Ernst des Lebens beginnt**
 >3. **Kapitel 5 - Schöne neue Arbeitswelt**
-
 >
 >Arbeitsauftrag:
 >
 >- **Lesephase (15 Minuten):** Jeder in der Gruppe liest den zugeteilten Kapitel.
->- **Vorbereitung:** Diskutieren Sie in der Gruppe die Reflexionsfragen zum Kapitel.
->- **Zusammenfassung erstellen:** Schreiben Sie eine kurze Zusammenfassung der wichtigsten Erkenntnisse.
->- **Diskussionsfragen:**
->	- **Welche Probleme können gemäss den Autoren in eurem Alltag mit Lernenden auftreten?**
->	- **Welche Beispiele aus eurem eigenen Erfahrungsschatz passen dazu?**
->	- **Welche Lösungsansätze werden im Text vorgeschlagen?**
+>- **Vorbereitung:** Diskutieren Sie in der Gruppe die Leitfragen zum Kapitel.
+>- **Zusammenfassung erstellen:** Schreiben Sie eine kurze Zusammenfassung in Stichworten der wichtigsten Erkenntnisse.
 >
 >Präsentation im Plenum
 >
