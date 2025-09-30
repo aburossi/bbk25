@@ -63,7 +63,6 @@ Reflexion:
 > 2. Welche Botschaften könnten auf den verschiedenen Ebenen mitgeschwungen haben?
 > 3. Welche Missverständnisse könnten entstehen?
 > 4. Wie hätte man diese Missverständnisse verhindern können?
->![mutter tochter.png|500](/img/user/mutter%20tochter.png)
 ><audio controls><source src="https://download-media.srf.ch/world/audio/WortSchatz_radio/2015/10/WortSchatz-radio_a88ae59d20e546b2af48981d782e0f0a.mp3"></audio>
 >Quelle: [Quelle](https://www.srf.ch/audio/wortschatz/untermiete-von-carol-blanc?id=dd6ca264-cc45-4159-a05c-c8ad617d68f3#autoplay)
 
@@ -75,7 +74,6 @@ Reflexion:
 > 2. Welche Botschaften könnten auf den verschiedenen Ebenen mitgeschwungen haben?
 > 3. Welche Missverständnisse könnten entstehen?
 > 4. Wie hätte man diese Missverständnisse verhindern können?
->![mutter sohn.png|500](/img/user/mutter%20sohn.png)
 
 ---
 
@@ -85,12 +83,6 @@ Reflexion:
 > 2. Welche Botschaften könnten auf den verschiedenen Ebenen mitgeschwungen haben?
 > 3. Welche Missverständnisse könnten entstehen?
 > 4. Wie hätte man diese Missverständnisse verhindern können?
-> ![mann frau.png|500](/img/user/mann%20frau.png)
-
-
-
-
-
 
 ## Weiter
 [[40 Tag 4/10 Vier-Ohren Modell/03 Anwendung Vier-Ohren-Modell\|03 Anwendung Vier-Ohren-Modell]]
