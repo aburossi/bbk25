@@ -26,4 +26,4 @@
 
 ---
 ## Weiter
-[[02 Methoden der Zielformulierung\|02 Methoden der Zielformulierung]]
+[[40 Tag 4/40 Lerndokumentation und Bildungsbericht/07 Lernziele Formulieren\|07 Lernziele Formulieren]]
