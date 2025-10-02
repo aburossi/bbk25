@@ -7,16 +7,24 @@
 
 
 >[!tip]- Gesprächsvorbereitung
-> * **Information sammeln:** Verschaffen Sie sich einen Überblick über die Situation. Informieren Sie sich bei Bedarf bei Kollegen oder Lehrpersonen.
-> * **Setting beachten:** Wählen Sie einen passenden Ort und Zeitpunkt für das Gespräch. Sorgen Sie für eine ungestörte Atmosphäre.
-> * **Dokumentation:** Halten Sie wichtige Punkte schriftlich fest. Bei Bedarf können Zielvereinbarungen gemeinsam unterschrieben werden.
-> * **Nachgespräch planen:** Vereinbaren Sie einen Folgetermin, um den Fortschritt zu besprechen.
+> * **Information sammeln** 
+> 👉 Verschaffen Sie sich einen Überblick über die Situation. Informieren Sie sich bei Bedarf bei Kollegen oder Lehrpersonen.
+> * **Setting beachten** 
+> 👉 Wählen Sie einen passenden Ort und Zeitpunkt für das Gespräch. Sorgen Sie für eine ungestörte Atmosphäre.
+> * **Dokumentation** 
+> 👉 Halten Sie wichtige Punkte schriftlich fest. Bei Bedarf können Zielvereinbarungen gemeinsam unterschrieben werden.
+> * **Nachgespräch planen** 
+> 👉 Vereinbaren Sie einen Folgetermin, um den Fortschritt zu besprechen.
  
 >[!tip]- Gesprächsführung
-> * **Konstruktives Feedback geben:** Nutzen Sie "Ich-Botschaften", um Ihre Beobachtungen und Empfindungen mitzuteilen.
-> * **Aktualität wahren:** Sprechen Sie Themen zeitnah an, damit sie noch präsent und leichter nachvollziehbar sind.
-> * **Respektvolle Haltung einnehmen:** Seien Sie sich bewusst, dass Ihre Sichtweise subjektiv ist. Vermeiden Sie vorschnelle Urteile.
-> * **Empathie zeigen:** Hören Sie aktiv zu und zeigen Sie Verständnis für die Perspektive des Lernenden.
+> * **Konstruktives Feedback geben** 
+> 👉 Nutzen Sie "Ich-Botschaften", um Ihre Beobachtungen und Empfindungen mitzuteilen.
+> * **Aktualität wahren:** 
+> 👉 Sprechen Sie Themen zeitnah an, damit sie noch präsent und leichter nachvollziehbar sind.
+> * **Respektvolle Haltung einnehmen** 
+> 👉 Seien Sie sich bewusst, dass Ihre Sichtweise subjektiv ist. Vermeiden Sie vorschnelle Urteile.
+> * **Empathie zeigen** 
+> 👉 Hören Sie aktiv zu und zeigen Sie Verständnis für die Perspektive des Lernenden.
  
 > [!abstract]- Die Schritte des Interventionsgesprächs
 > 1. **Einstieg:** Begrüssung und Darstellung des Gesprächsanliegens.

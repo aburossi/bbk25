@@ -17,15 +17,17 @@
 2. **Analyse des Fallbeispiels (ca. 10 Minuten):** 
    - Lesen Sie das Fallbeispiel aufmerksam und analysieren Sie die Situation. Notieren Sie die **identifizierten** **Problemfelder** der lernenden Person (z.B. Motivationsprobleme, Überforderung, persönliche Herausforderungen).
    - Schreiben Sie die **Problemfelder** auf dem PinBoard auf (ca. 5 Minuten)
-1. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 10 Minuten):** 
+3. **Erarbeitung von Motivationsfaktoren und Lösungsansätzen (ca. 10 Minuten):** 
    - Entwickeln Sie gemeinsam **Motivationsfaktoren und Lösungsansätze**, die die Motivation der lernenden Person gezielt fördern könnten. 
    - **Begründen Sie Ihre Vorschläge** und **überlegen Sie, wie die Massnahmen auf das jeweilige Problemfeld** wirken könnten. 
    - Halten Sie die Ergebnisse auf dem **Pinboard** fest.
-   *Hinweis: In der Praxis gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.*
+
+>[!warning] *Hinweis: In der Praxis gehen Sie kreativ vor und berücksichtigen Sie, wie die Lernenden selbst in den Prozess eingebunden werden können, ohne Lösungen direkt vorzugeben.*
+
 4. **Diskutieren Sie in der Gruppe**, welche **Zusammenhänge zwischen Problemfeldern und Motivationsfaktoren verbunden sind**. Ein Problemfeld kann mit mehreren Motivationsfaktoren oder andere Problemfelder verbunden sein.
 5. **Präsentation der Ergebnisse (ca. 2 Minuten pro Gruppe):** Jede Gruppe stellt ihren Fall und ihre Ergebnisse im Plenum vor. Erklären Sie die identifizierten Problemfelder und die Verknüpfung mit den Motivationsfaktoren sowie die vorgeschlagenen Lösungsansätze.
 
->[!Warning] **Hinweise zur Bearbeitung:**
+>[!info] **Hinweise zur Bearbeitung:**
 >- Nutzen Sie die im **Handbuch** (S. 159) vorgestellten **Strategien zur Motivation von Lernenden**.
 >- Teilen Sie **verschiedene Ideen** innerhalb Ihrer Gruppe, wie Sie mit der Situation **in Ihrem Betrieb umgehen würden**.
 

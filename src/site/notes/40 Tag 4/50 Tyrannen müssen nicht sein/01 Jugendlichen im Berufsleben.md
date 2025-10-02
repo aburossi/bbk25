@@ -94,8 +94,8 @@
 >Arbeitsauftrag:
 >
 >- **Lesephase (15 Minuten):** Jeder in der Gruppe liest den zugeteilten Kapitel.
->- **Vorbereitung:** Diskutieren Sie in der Gruppe die Leitfragen zum Kapitel.
->- **Zusammenfassung erstellen:** Schreiben Sie eine kurze Zusammenfassung in Stichworten der wichtigsten Erkenntnisse.
+>- **Vorbereitung:** Diskutieren Sie in der Gruppe die **Leitfragen** zum Kapitel.
+>- **Zusammenfassung erstellen:** Schreiben Sie eine **kurze Zusammenfassung in Stichworten** der wichtigsten Erkenntnisse.
 >
 >Präsentation im Plenum
 >
@@ -106,16 +106,15 @@
 
 > [!abstract] **Fazit**
 > 
-> - **Verständnis der Beziehungsstörungen:** Das Erkennen von Partnerschaftlichkeit, Projektion und Symbiose hilft, das Verhalten von Lernenden besser zu verstehen.
-> - **Auswirkungen auf die Ausbildung:** Diese Beziehungsdynamiken können das Lernverhalten und die soziale Interaktion der Lernenden beeinflussen.
-> - **Rolle des Berufsbildners:** Als Ausbildner ist es wichtig, angemessen auf diese Verhaltensweisen zu reagieren und den Lernenden zu unterstützen.
-> - **Strategien entwickeln:** Durch gezielte Massnahmen und offene Kommunikation können Herausforderungen gemeistert und die Lernenden gefördert werden.
-> - **Zusammenarbeit und Austausch:** Der Austausch von Erfahrungen und Strategien im Team unterstützt den erfolgreichen Umgang mit Beziehungsstörungen.
-
----
-
-## Weiter
-
-[[10 Tag 1/20 Eigenheiten junger Erwachsener/02 Herausforderungen und Chancen\|02 Herausforderungen und Chancen]]
+> - **Verständnis der Beziehungsstörungen** 
+> 👉 Das Erkennen von Partnerschaftlichkeit, Projektion und Symbiose hilft, das Verhalten von Lernenden besser zu verstehen.
+> - **Auswirkungen auf die Ausbildung** 
+> 👉 Diese Beziehungsdynamiken können das Lernverhalten und die soziale Interaktion der Lernenden beeinflussen.
+> - **Rolle des Berufsbildners** 
+> 👉 Als Ausbildner ist es wichtig, angemessen auf diese Verhaltensweisen zu reagieren und den Lernenden zu unterstützen.
+> - **Strategien entwickeln** 
+> 👉 Durch gezielte Massnahmen und offene Kommunikation können Herausforderungen gemeistert und die Lernenden gefördert werden.
+> - **Zusammenarbeit und Austausch:**
+> 👉 Der Austausch von Erfahrungen und Strategien im Team unterstützt den erfolgreichen Umgang mit Beziehungsstörungen.
 
 ---
