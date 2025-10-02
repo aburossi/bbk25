@@ -47,7 +47,7 @@
 
 >[!note]- Gruppe Blau
 >### Fallbeispiel
-><span style="font-size: 18px;">Lena ist eine Auszubildende im dritten Jahr ihrer Ausbildung. In den letzten Monaten sind Ihnen als Berufsbildnerin mehrere problematische Situationen aufgefallen. Lena kommt häufig in Konflikte mit ihren Kolleginnen und Kollegen, wirkt gestresst und überfordert. Zudem hat sie Probleme, ihre Arbeitszeiten einzuhalten, und ihre Arbeitsergebnisse haben nachgelassen. Sie haben auch beobachtet, dass Lena in der Mittagspause raucht, obwohl das Rauchen während der Arbeitszeit verboten ist. 
+><span style="font-size: 18px;">Lena ist eine Auszubildende im dritten Jahr ihrer Ausbildung. In den letzten Monaten sind Ihnen als Berufsbildnerin mehrere problematische Situationen aufgefallen. Lena kommt häufig in Konflikte mit ihren Kolleginnen und Kollegen, wirkt gestresst und überfordert. Zudem hat sie Probleme, ihre Arbeitszeiten einzuhalten, und ihre Arbeitsergebnisse haben nachgelassen. Sie haben auch beobachtet, dass Lena neu in der Mittagspause raucht. 
 >Sie möchten ein Interventionsgespräch mit Lena führen, um die verschiedenen Probleme anzusprechen und gemeinsam Lösungsansätze zu erarbeiten.</span>
 >
 ><iframe src="https://app.fobizz.com/pinboard/public_boards/b545c8a7-5960-47a5-ab95-622426a6baaa?token=9373fb6c874789c87fadb9a91786d1d6" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
