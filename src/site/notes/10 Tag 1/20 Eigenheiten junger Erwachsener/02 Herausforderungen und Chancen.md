@@ -4,26 +4,7 @@
 
 ## Auftrag
 
->[!note] Überfliegen Sie die Seite(n) 267-268 im Handbuch. Machen Sie sich mit den **wichtigsten Aspekten des Reifeprozesses**, des **Spannungsfeldes zwischen Kindheit und Erwachsenenalter**, der **Ablösung von zu Hause** und der **Bedeutung des Experimentierens in der Adoleszenz** vertraut.
->
->Besprechen Sie in Ihrer Gruppe die folgenden **Reflexionsfragen** und halten Sie Ihre Ergebnisse auf dem Pinboard fest.
->
->---
->
->>[!Question] **Reflexionsfragen:**
->>
->>1. **Ansätze und Methoden in der Ausbildungspraxis:**
->>   - *Wie können Sie als Berufsbildner die Lernenden in dieser Entwicklungsphase optimal unterstützen und ihre Motivation fördern?*
->>
->>2. **Herausforderungen im Umgang mit Jugendlichen:**
->>   - *Wie gehen Sie mit den Stimmungsschwankungen und dem unberechenbaren Verhalten von Jugendlichen um?*
->>   - *Wie setzen Sie klare Regeln und Grenzen, ohne die Selbstständigkeit der Lernenden einzuschränken?*
->>
->>3. **Lösungsansätze für Konflikte:**
->>   - *Wie können Sie Konflikte mit Lernenden konstruktiv lösen?*
->>
->>4. **Best Practices aus Ihrem Berufsfeld:**
->>   - *Welche Best Practices aus Ihrem Berufsfeld haben sich im Umgang mit 15- bis 20-jährigen Lernenden bewährt?*
+<iframe src="https://app.lumi.education/api/v1/run/xuuWWu/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ---
 
